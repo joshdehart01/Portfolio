@@ -7,5 +7,7 @@ Within this portfolio, I showcase my skills including Excel, Python, SQL, and Ta
 
 Here is a description of each project:
 
+
 <h2>Movie Success Correlation<h2>
-<h3>Goal:</h3> laksdflkasjdf
+<h3>Goal:</h3> 
+asdf
