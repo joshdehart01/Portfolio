@@ -9,4 +9,13 @@ Here is a description of each project:
 
 
 <h2>Movie Success Correlation<h2>
-<h3>Goal:</h3> asdf
+<h3>Goal:</h3> 
+Determine which factors contribute to a movie's gross profit.
+<h3>Description:</h3>
+This project is centered around attributes of movies ranging from 1980-2020. The data set includes name, year, genre, votes, director, star, budget, gross profit, company, and other important fields. This project required cleaning of the data, basic statistical operations, and a Pearson correlation analysis.
+<h3>Skills Used:</h3>
+Data cleaning, Data analysis, Correlation matrix, Data visualization
+<h3>Technology:</h3>
+Python, Pandas, Seaborn, Numpy, Matplotlib
+<h3>Results:</h3>
+After running analysis and the Pearson correlation, we learn that the budget and number of user votes contribute the most to the success of a movie.
