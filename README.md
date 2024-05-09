@@ -9,8 +9,7 @@ Here is a description of each project:
 
 
 <h2>Movie Success Correlation<h2>
-<h4>Goal:<p>Determine which factors contribute to a movie's gross profit.</p></h4>
-
+<h4>Goal:{display: inline}</h4>Determine which factors contribute to a movie's gross profit.
 <h4>Description:</h4>
 This project is centered around attributes of movies ranging from 1980-2020. The data set includes name, year, genre, votes, director, star, budget, gross profit, company, and other important fields. This project required cleaning of the data, basic statistical operations, and a Pearson correlation analysis.
 <h4>Skills Used:</h4>
