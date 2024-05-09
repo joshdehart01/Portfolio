@@ -9,5 +9,4 @@ Here is a description of each project:
 
 
 <h2>Movie Success Correlation<h2>
-<h3>Goal:</h3> 
-asdf
+<h3>Goal:</h3> asdf
