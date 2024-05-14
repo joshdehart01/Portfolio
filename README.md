@@ -60,7 +60,6 @@ Tableau
 After combining charts together to form a dashboard, we learn that the United States and certain areas of Europe struggled to deal with the spread of COVID.
 <h4>Link:</h4>
 Click <a href="https://public.tableau.com/app/profile/josh.dehart/viz/PortfolioCovidDashboard_17104313893560/COVIDDashboard" target="_blank">here</a> to view the dashboard.
-Check out <a href="https://public.tableau.com/app/profile/josh.dehart/viz/PortfolioCovidDashboard_17104313893560/COVIDDashboard" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>
 
 
 <h2>Nashville Housing Data Cleaning<h2>
