@@ -75,14 +75,14 @@ SQL Server
 After cleaning the data, we now have a fresh and reliable data set that can be used for analysis.
 
 
-<h2>Nashville Housing Data Cleaning<h2>
+<h2>Bike Dashboard<h2>
 <h4>Goal:</h4>
-Clean data set to prepare for analysis.
+Clean data set and create dashboard.
 <h4>Description:</h4>
-This project contains a Nashville Housing data set that shows the sales of homes between 2013-2019. There are null values, duplicates, columns that need to be split, and other problems that challenge this data's integrity. We be cleaning this data to have consistent and accurate data for analysis.
+This project contains a data set involving different attributes that contribute to a person's decision to purchase a bike. We will need to clean this data set, and create charts that will combine together into a dashboard
 <h4>Skills Used:</h4>
-Joins, Splitting Columns with SUBSTRING and PARSENAME, Updating Column Values, Removing Duplicates, Dropping Columns, CTE, Converting Data Types
+Data Cleaning, PivotTables, Building Dashboard, Slicers, IF Function
 <h4>Technology:</h4>
-SQL Server
+Microsoft Excel
 <h4>Results:</h4>
-After cleaning the data, we now have a fresh and reliable data set that can be used for analysis.
+After cleaning the data and creating a dashboard, we learn that middle-aged men with a short commute distance are the most likely to purchase a bike.
