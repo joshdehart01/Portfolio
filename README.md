@@ -45,3 +45,44 @@ Joins, CTE, Temp Tables, Aggregate Functions, Creating Views, Converting Data Ty
 SQL Server
 <h4>Results:</h4>
 After joining the tables, we learn that new COVID cases slow down after the rollout of the vaccination.
+
+
+<h2>COVID Dashboard<h2>
+<h4>Goal:</h4>
+Using the COVID data set that we cleaned in SQL, combine charts into a dashboard to visualize data.
+<h4>Description:</h4>
+After cleaning the COVID data set in SQL, we now move to Tableau to see our data in a variety of different charts. This will help us come to conclusions and present our findings to stakeholders.
+<h4>Skills Used:</h4>
+Creating Bar Charts, Tables, Line Charts, and Maps
+<h4>Technology:</h4>
+Tableau
+<h4>Results:</h4>
+After combining charts together to form a dashboard, we learn that the United States and certain areas of Europe struggled to deal with the spread of COVID.
+<h4>Link:</h4>
+Click [here](https://public.tableau.com/app/profile/josh.dehart/viz/PortfolioCovidDashboard_17104313893560/COVIDDashboard) to view the dashboard.
+
+
+<h2>Nashville Housing Data Cleaning<h2>
+<h4>Goal:</h4>
+Clean data set to prepare for analysis.
+<h4>Description:</h4>
+This project contains a Nashville Housing data set that shows the sales of homes between 2013-2019. There are null values, duplicates, columns that need to be split, and other problems that challenge this data's integrity. We be cleaning this data to have consistent and accurate data for analysis.
+<h4>Skills Used:</h4>
+Joins, Splitting Columns with SUBSTRING and PARSENAME, Updating Column Values, Removing Duplicates, Dropping Columns, CTE, Converting Data Types
+<h4>Technology:</h4>
+SQL Server
+<h4>Results:</h4>
+After cleaning the data, we now have a fresh and reliable data set that can be used for analysis.
+
+
+<h2>Nashville Housing Data Cleaning<h2>
+<h4>Goal:</h4>
+Clean data set to prepare for analysis.
+<h4>Description:</h4>
+This project contains a Nashville Housing data set that shows the sales of homes between 2013-2019. There are null values, duplicates, columns that need to be split, and other problems that challenge this data's integrity. We be cleaning this data to have consistent and accurate data for analysis.
+<h4>Skills Used:</h4>
+Joins, Splitting Columns with SUBSTRING and PARSENAME, Updating Column Values, Removing Duplicates, Dropping Columns, CTE, Converting Data Types
+<h4>Technology:</h4>
+SQL Server
+<h4>Results:</h4>
+After cleaning the data, we now have a fresh and reliable data set that can be used for analysis.
