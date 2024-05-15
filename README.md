@@ -12,7 +12,7 @@ Here is a description of each project:
 <h4>Goal:</h4>
 Determine which factors contribute to a movie's gross profit.
 <h4>Description:</h4>
-This project is centered around attributes of movies ranging from 1980-2020. The data set includes name, year, genre, votes, director, star, budget, gross profit, company, and other important fields. This project required cleaning of the data, basic statistical operations, and a Pearson correlation analysis.
+This project is centered around attributes of movies ranging from 1980-2020. The data set includes name, year, genre, votes, director, star, budget, gross profit, company, and other important fields. This project required the cleaning of data, basic statistical operations, and a Pearson correlation analysis.
 <h4>Skills Used:</h4>
 Data cleaning, Data analysis, Correlation matrix, Data visualization
 <h4>Technology:</h4>
