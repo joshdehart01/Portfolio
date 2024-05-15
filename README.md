@@ -79,7 +79,7 @@ After cleaning the data, we now have a fresh and reliable data set that can be u
 <h4>Goal:</h4>
 Clean data set and create dashboard.
 <h4>Description:</h4>
-This project contains a data set involving different attributes that contribute to a person's decision to purchase a bike. We will need to clean this data set, and create charts that will combine together into a dashboard
+This project contains a data set involving different attributes that contribute to a person's decision to purchase a bike. We will clean this data set, and create charts that will combine together into a dashboard.
 <h4>Skills Used:</h4>
 Data Cleaning, PivotTables, Building Dashboard, Slicers, IF Function
 <h4>Technology:</h4>
