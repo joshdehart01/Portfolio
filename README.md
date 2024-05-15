@@ -49,9 +49,9 @@ After joining the tables, we learn that new COVID cases slow down after the roll
 
 <h2>COVID Dashboard<h2>
 <h4>Goal:</h4>
-Using the COVID data set that we cleaned in SQL, combine charts into a dashboard to visualize data.
+Using the COVID data set that we ran analysis on in SQL, combine charts into a dashboard to visualize data.
 <h4>Description:</h4>
-After cleaning the COVID data set in SQL, we now move to Tableau to see our data in a variety of different charts. This will help us come to conclusions and present our findings to stakeholders.
+After running basic calculations on the data set in SQL, we now move to Tableau to see our data in a variety of different charts. This will help us come to conclusions and present our findings to stakeholders.
 <h4>Skills Used:</h4>
 Creating Bar Charts, Tables, Line Charts, and Maps
 <h4>Technology:</h4>
